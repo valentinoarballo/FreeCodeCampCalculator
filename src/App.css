@@ -10,7 +10,8 @@
 }
 
 .contenedor-calculadora {
-  width: 500px;
+  min-width: 400px;
+  width: auto;
   height: auto;
   padding: 0px;
   background-color: #99c9ff;

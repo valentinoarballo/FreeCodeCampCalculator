@@ -1,16 +1,19 @@
 .boton-clear {
-  height: 80px;
-  font-size: 2em;
+  height: 83px;
+  font-size: 1.6em;
   font-family: 'Times New Roman', sans-serif;
   display: flex;
   flex: 1;
   justify-content: center;
   align-items: center;
-  background-color: #fea170;
+  background-color: #fe7070;
   cursor: pointer;
   border: 1PX solid #e2e2e2;
+  color: #504845;
 }
 
 .boton-clear:hover {
-  background-color: #fdba96;
+  background-color: #fd8686;
+  color: black;
+  transform: scale(1.03);
 }
