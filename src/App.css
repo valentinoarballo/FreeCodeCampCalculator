@@ -11,7 +11,7 @@
 
 .contenedor-calculadora {
   width: 500px;
-  height: 700px;
+  height: auto;
   padding: 0px;
   background-color: #99c9ff;
   border: solid 1px white;

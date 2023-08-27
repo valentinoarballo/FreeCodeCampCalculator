@@ -1,0 +1,16 @@
+.boton-clear {
+  height: 80px;
+  font-size: 2em;
+  font-family: 'Times New Roman', sans-serif;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  background-color: #fea170;
+  cursor: pointer;
+  border: 1PX solid #e2e2e2;
+}
+
+.boton-clear:hover {
+  background-color: #fdba96;
+}
